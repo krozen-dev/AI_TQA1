@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'text-evaluator=text-evaluator:main',
+            'text-evaluator=text_evaluator:main',
         ],
     },
     author='_KroZen_',
