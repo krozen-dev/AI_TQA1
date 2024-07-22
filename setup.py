@@ -16,7 +16,7 @@ setup(
     },
     author='_KroZen_',
     author_email='your.email@example.com',
-    description='A text evaluation module using AI-TQA Busic',
+    description='A text evaluation module using AI-TQA Basic',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/krozen-dev/AI_TextScan',
