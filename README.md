@@ -4,12 +4,12 @@ TextEvaluator использует модель AI-TQA Basic для оценки
 
 # Установка:
 
-`pip install text_evaluator`
+`pip install text-evaluator`
 
 # Использование:
 
 ```
-from text_evaluator import *
+from text-evaluator import *
 
 evaluator = TextEvaluator()
 
