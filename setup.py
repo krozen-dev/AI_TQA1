@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='textevaluator',
-    version='0.3',
+    version='0.4',
     packages=find_packages(),
     package_data={'textevaluator': ['data/my_model.h5', 'data/data.json']},
     install_requires=[
