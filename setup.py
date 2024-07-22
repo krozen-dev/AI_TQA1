@@ -1,17 +1,17 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='text_evaluator',
-    version='0.5',
+    name='text-evaluator',
+    version='0.1',
     packages=find_packages(),
-    package_data={'text_evaluator': ['data/my_model.h5', 'data/data.json']},
+    package_data={'text-evaluator': ['data/my_model.h5', 'data/data.json']},
     install_requires=[
         'tensorflow',
         'nltk'
     ],
     entry_points={
         'console_scripts': [
-            'text_evaluator=text_evaluator:main',
+            'text-evaluator=text-evaluator:main',
         ],
     },
     author='_KroZen_',
