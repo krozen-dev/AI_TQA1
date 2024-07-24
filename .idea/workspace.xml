@@ -6,23 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="647c9c58-5824-4845-8c01-e224bb8028c3" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/text_evaluator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai-tqa/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/text_evaluator/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/ai-tqa/data/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/text_evaluator/data/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/ai-tqa/data/my_model.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/text_evaluator/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai-tqa/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/text_evaluator-0.5-py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/text_evaluator-0.5.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator.egg-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator.egg-info/requires.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator/data/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator/data/my_model.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_evaluator/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721740338316</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Update">
+      <option name="closed" value="true" />
+      <created>1721808270827</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1721808270827</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
