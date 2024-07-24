@@ -9,7 +9,7 @@ TextEvaluator использует модель AI-TQA Basic для оценки
 # Использование:
 
 ```
-from ai-tqa import *
+from ai_tqa import *
 
 evaluator = TextEvaluator()
 
