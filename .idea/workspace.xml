@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="647c9c58-5824-4845-8c01-e224bb8028c3" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai-tqa/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_tqa/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai-tqa/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/ai_tqa/data/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai-tqa/data/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/ai_tqa/data/my_model.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai-tqa/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_tqa/model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -309,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721808451857</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Update">
+      <option name="closed" value="true" />
+      <created>1721808962791</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721808962791</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
