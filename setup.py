@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'ai-tqa=ai-tqa:main',
+            'ai-tqa=ai_tqa:main',
         ],
     },
     author='_KroZen_',
