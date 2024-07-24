@@ -1,17 +1,17 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='ai-tqa',
+    name='ai_tqa',
     version='0.1',
     packages=find_packages(),
-    package_data={'ai-tqa': ['data/my_model.h5', 'data/data.json']},
+    package_data={'ai_tqa': ['data/my_model.h5', 'data/data.json']},
     install_requires=[
         'tensorflow',
         'nltk'
     ],
     entry_points={
         'console_scripts': [
-            'ai-tqa=ai_tqa:main',
+            'ai_tqa=ai_tqa:main',
         ],
     },
     author='_KroZen_',
