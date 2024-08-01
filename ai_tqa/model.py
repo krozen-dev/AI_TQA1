@@ -36,10 +36,14 @@ class TextEvaluator:
         prediction = self.model.predict(padded_sequence)
         return prediction[0, 0]
 
-    def evaluate_text(self, text):
+    def evaluate_text(self, text, detail=False):
         preprocessed_input = self.preprocess_text(text)
         sequence = self.tokenizer.texts_to_sequences([' '.join(preprocessed_input)])
         padded_sequence = tf.keras.preprocessing.sequence.pad_sequences(sequence, maxlen=self.max_sequence_length)
         prediction = self.model.predict(padded_sequence)
         bad_words = [word for word in preprocessed_input if self.evaluate_word(word) > 0.5]
-        return prediction[0, 0], bad_words
+
+        if detail:
+            return prediction[0, 0], bad_words
+        else:
+            return prediction[0, 0]
