@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="647c9c58-5824-4845-8c01-e224bb8028c3" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/ai_tqa.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/ai_tqa.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programming\Python\Projects\AI_TextScan" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip install ai-tqa" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -390,7 +395,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726423770320</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Update">
+      <option name="closed" value="true" />
+      <created>1726423870944</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1726423870944</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Update">
+      <option name="closed" value="true" />
+      <created>1726423880089</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1726423880089</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Update">
+      <option name="closed" value="true" />
+      <created>1726423972551</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1726423972551</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
