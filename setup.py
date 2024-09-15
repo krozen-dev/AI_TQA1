@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ai_tqa',
-    version='0.4',
+    version='0.5',
     packages=find_packages(),
     package_data={'ai_tqa': ['data/my_model.h5', 'data/data.json']},
     install_requires=[
@@ -25,5 +25,5 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
-    python_requires='>=3.6',
+    python_requires='3.8',
 )
