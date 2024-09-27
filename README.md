@@ -21,6 +21,10 @@ TextEvaluator использует модель **AI-TQA1 Basic** для оце�
 
 `pip install ai-tqa`
 
+# Обновление:
+
+`pip install --upgrade ai-tqa`
+
 # Оценка текста:
 
 ```python
