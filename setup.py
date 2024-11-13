@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ai_tqa',
-    version='1.1.3',
+    version='1.1.4',
     packages=find_packages(),
     package_data={'ai_tqa': ['data/my_model.h5', 'data/data.json']},
     install_requires=[
